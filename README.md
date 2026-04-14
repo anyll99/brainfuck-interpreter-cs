@@ -32,22 +32,21 @@ dotnet run -- hello-world.bf
 
 This repository includes a classic `hello-world.bf` script. You can see it in action immmediately:
 
-##Code Snapshot:##
+## Code Snapshot:
 
 ```brainfuck
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 ```
-### Project Structure###
+### Project Structure
 
 * **main.cs:** The core Virtual Machine logic and program entry point.
 * **hello-world.bf:** Standard "Hello World" implementation.
 * **addition.bf:** A sample script demonstrating basic arithmetic and pointer shifting.
 
-###Configuration:###
+### Configuration:
 
 The VM is configured with a standard 30,000-cell tape. To adjust the memory limit or modify the pointer wrap-around behavior, edit the `tape` array initialization in `main.cs`:
 
 ```C#
 private readonly byte[] tape = new byte[30000];
 ```
-
