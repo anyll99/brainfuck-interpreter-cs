@@ -1,0 +1,14 @@
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.GeneratedMSBuildEditorConfig.editorconfig
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.AssemblyInfoInputs.cache
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.AssemblyInfo.cs
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.csproj.CoreCompileInputs.cache
+/home/anyll/Desktop/school shit/charles C#/brainfuck/bin/Debug/net10.0/brainfuck
+/home/anyll/Desktop/school shit/charles C#/brainfuck/bin/Debug/net10.0/brainfuck.deps.json
+/home/anyll/Desktop/school shit/charles C#/brainfuck/bin/Debug/net10.0/brainfuck.runtimeconfig.json
+/home/anyll/Desktop/school shit/charles C#/brainfuck/bin/Debug/net10.0/brainfuck.dll
+/home/anyll/Desktop/school shit/charles C#/brainfuck/bin/Debug/net10.0/brainfuck.pdb
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.dll
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/refint/brainfuck.dll
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.pdb
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/brainfuck.genruntimeconfig.cache
+/home/anyll/Desktop/school shit/charles C#/brainfuck/obj/Debug/net10.0/ref/brainfuck.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xT7pVxbTnII=",
+  "success": true,
+  "projectFilePath": "/home/anyll/Desktop/school shit/charles C#/brainfuck/brainfuck.csproj",
+  "expectedPackageFiles": [
+    "/home/anyll/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
