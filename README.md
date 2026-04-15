@@ -17,7 +17,7 @@ A Brainfuck Virtual Machine and interpreter built with .NET. Featuring a pre-com
 ### Installation
 Clone the repository:
 ```bash
-git clone [https://github.com/anyll99/brainfuck-interpreter-cs.git](https://github.com/anyll99/brainfuck-interpreter-cs.git)
+git clone https://github.com/anyll99/brainfuck-interpreter-cs.git
 cd brainfuck-interpreter-c
 ```
 
